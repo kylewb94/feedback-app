@@ -1,4 +1,4 @@
-# Roots
+# Customer Service Survey
 Customer Service Survey is a simple React app that allows users to add, update, and delete their feedback. It utilizes the following fundamentals of React:
 
 * JSX
